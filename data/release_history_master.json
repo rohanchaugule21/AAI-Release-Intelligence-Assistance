@@ -1,0 +1,218 @@
+[
+    {
+        "release_number": 1,
+        "application_version": "V2024.1.0",
+        "release_date": "10/02/2024",
+        "author": "Manish Kumar",
+        "filename": "AAI IRS ReleaseNoteV1.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 1- Application Version v2023.1.0"
+    },
+    {
+        "release_number": 3,
+        "application_version": "V2024.3.0",
+        "release_date": "15/04/2024",
+        "author": "Manish Kumar",
+        "filename": "AAI IRS ReleaseNoteV3.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 2- Application Version v2024.3.0"
+    },
+    {
+        "release_number": 4,
+        "application_version": "V2024.4.0",
+        "release_date": "11/06/2024",
+        "author": "Manish Kumar",
+        "filename": "AAI IRS ReleaseNoteV4.0.0.0 1.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 3- Application Version v2024.4.0"
+    },
+    {
+        "release_number": 5,
+        "application_version": "V2024.5.0",
+        "release_date": "11/08/2024",
+        "author": "Manish Kumar",
+        "filename": "AAI IRS ReleaseNoteV5.0.0.0 1.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 5- Application Version v2024.5.0"
+    },
+    {
+        "release_number": 6,
+        "application_version": "V2025.6.0",
+        "release_date": "13/05/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV6.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 6- Application Version v2025.6.0"
+    },
+    {
+        "release_number": 7,
+        "application_version": "V2025.7.0",
+        "release_date": "23/05/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV7.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 7- Application Version v2025.7.0"
+    },
+    {
+        "release_number": 8,
+        "application_version": "V2025.8.0",
+        "release_date": "27/05/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV8.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 8- Application Version v2025.8.0"
+    },
+    {
+        "release_number": 9,
+        "application_version": "V2025.9.0",
+        "release_date": "10/07/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV9.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 9- Application Version v2025.9.0"
+    },
+    {
+        "release_number": 10,
+        "application_version": "V2025.10.0",
+        "release_date": "25/07/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV10.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 10- Application Version v2025.10.0"
+    },
+    {
+        "release_number": 11,
+        "application_version": "V2025.11.0",
+        "release_date": "25/07/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV11.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 11- Application Version v2025.11.0"
+    },
+    {
+        "release_number": 12,
+        "application_version": "V2025.12.0",
+        "release_date": "07/08/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV12.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 12- Application Version v2025.12.0"
+    },
+    {
+        "release_number": 13,
+        "application_version": "V2025.13.0",
+        "release_date": "10/11/2025",
+        "author": "Kunal Panchal",
+        "filename": "AAI IRS ReleaseNoteV13.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 13- Application Version v2025.13.0"
+    },
+    {
+        "release_number": 14,
+        "application_version": "V2025.14.0",
+        "release_date": "28/11/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV14.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 14- Application Version v2025.14.0"
+    },
+    {
+        "release_number": 15,
+        "application_version": "V2025.15.0",
+        "release_date": "05/12/2025",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV15.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 15- Application Version v2025.15.0"
+    },
+    {
+        "release_number": 16,
+        "application_version": "V2025.16.0",
+        "release_date": "31/12/2025",
+        "author": "Kunal Panchal",
+        "filename": "AAI IRS ReleaseNoteV16.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 16- Application Version v2025.16.0"
+    },
+    {
+        "release_number": 17,
+        "application_version": "V2026.17.0",
+        "release_date": "06/01/2026",
+        "author": "Kunal Panchal",
+        "filename": "AAI IRS ReleaseNoteV17.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 17- Application Version v2026.17.0"
+    },
+    {
+        "release_number": 18,
+        "application_version": "V2026.18.0",
+        "release_date": "09/01/2026",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV18.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 18- Application Version v2026.18.0"
+    },
+    {
+        "release_number": 19,
+        "application_version": "V2026.19.0",
+        "release_date": "13/01/2026",
+        "author": "Rupal Koli",
+        "filename": "AAI IRS ReleaseNoteV19.0.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 19- Application Version v2026.19.0"
+    },
+    {
+        "release_number": 20,
+        "application_version": "V2026.20.0",
+        "release_date": "20/01/2026",
+        "author": "Rupal Koli",
+        "filename": "AAI IRS ReleaseNoteV20.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 20- Application Version v2026.20.0"
+    },
+    {
+        "release_number": 21,
+        "application_version": "V2026.21.0",
+        "release_date": "28/01/2026",
+        "author": "Kunal Panchal",
+        "filename": "AAI IRS ReleaseNoteV21.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 21- Application Version v2026.21.0"
+    },
+    {
+        "release_number": 22,
+        "application_version": "V2026.22.0",
+        "release_date": "04/02/2026",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV22.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 22- Application Version v2026.22.0.0"
+    },
+    {
+        "release_number": 23,
+        "application_version": "V2026.23.0",
+        "release_date": "05/02/2026",
+        "author": "Rupal Koli",
+        "filename": "AAI IRS ReleaseNoteV23.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 23- Application Version v2026.23.0.0"
+    },
+    {
+        "release_number": 24,
+        "application_version": "V2026.24.0",
+        "release_date": "26/08/2026",
+        "author": "Rohan Chaugule",
+        "filename": "AAI IRS ReleaseNoteV24.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 24- Application Version v2026.24.0.0"
+    },
+    {
+        "release_number": 25,
+        "application_version": "V2026.25.0",
+        "release_date": "16/10/2026",
+        "author": "Kunal Panchal",
+        "filename": "AAI IRS ReleaseNoteV25.0.0.docx",
+        "validation_status": "VALID",
+        "description": "IRS Release 25- Application Version v2026.25.0.0"
+    }
+]

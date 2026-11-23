@@ -1,0 +1,83 @@
+[
+    {
+        "release_number": 11,
+        "release_version": "V11.0.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store Central Application Availability KPI data and transform the data to source Power BI dashboard"
+    },
+    {
+        "release_number": 13,
+        "release_version": "V13.0.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store the data for Process Group Instance Name and make respective changes to other database components to consume and store data"
+    },
+    {
+        "release_number": 14,
+        "release_version": "V14.0.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store the data for Network SLA from Akash Portal and make respective changes to other database components to consume and store data"
+    },
+    {
+        "release_number": 15,
+        "release_version": "V15.0.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store the data for Bandwidth Utilization Report from Akash Portal and make respective changes to other database components to consume and store data"
+    },
+    {
+        "release_number": 22,
+        "release_version": "V22.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store the data for TouchPoint Monitor Report from Airsphere Client Exporter and store the data into the database to show the client status changes on the dashboard."
+    },
+    {
+        "release_number": 24,
+        "release_version": "V24.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store the data for Central Application Availability Report from Dynatrace and store the data into the database to show updated business logic details of the Central Components on the dashboard"
+    },
+    {
+        "release_number": 9,
+        "release_version": "V9.0.0.0",
+        "airport": "AAI22",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To store and transform the data for IRS 12"
+    },
+    {
+        "release_number": 10,
+        "release_version": "V10.0.0.0",
+        "airport": "AAI44",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To Optimize the query for IRS 44. We will now retain the data for only 100 days in data mart tables"
+    },
+    {
+        "release_number": 12,
+        "release_version": "V12.0.0.0",
+        "airport": "AAI44",
+        "dependency_type": "Database",
+        "name": "paxlocate-cin-irs",
+        "version": "Microsoft SQL Azure (RTM) - 12.0.2000.8",
+        "description": "To calculate the total downtime of the P1 incident"
+    }
+]

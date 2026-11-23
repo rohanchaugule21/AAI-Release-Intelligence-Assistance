@@ -1,0 +1,233 @@
+[
+    {
+        "release_number": 11,
+        "release_version": "V11.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1370267",
+        "title": "AAI-DYCE-IRS: Source Data of SLA Report",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV11.0.0.0.docx"
+    },
+    {
+        "release_number": 13,
+        "release_version": "V13.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1489491",
+        "title": "AAI-DYCE-IRS:",
+        "impact": null,
+        "affected_version": null,
+        "source_file": "AAI IRS ReleaseNoteV13.0.0.0.docx"
+    },
+    {
+        "release_number": 14,
+        "release_version": "V14.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1496521",
+        "title": "AAI-DYCE-IRS :  Retrieve data from the Akash API (Versa) using a .NET service and store it in the IRS 12 database for Network SLA Availability Report",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV14.0.0.0.docx"
+    },
+    {
+        "release_number": 15,
+        "release_version": "V15.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1502099",
+        "title": "AAI-DYCE-IRS : As Data source change from Ngoss from Akash Api for Bandwidth Utilisation Report need to change logic and development",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV15.0.0.0.docx"
+    },
+    {
+        "release_number": 17,
+        "release_version": "V17.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1525799",
+        "title": "AAI-DYCE-IRS : Apply SOLID principle.",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV17.0.0.0.docx"
+    },
+    {
+        "release_number": 17,
+        "release_version": "V17.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1525800",
+        "title": "AAI-DYCE-IRS : JSON Serialization while consuming external API Data.",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV17.0.0.0.docx"
+    },
+    {
+        "release_number": 18,
+        "release_version": "V18.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1523972",
+        "title": "AAI-DYCE-IRS : Analysis and Remove unused columns from power BI report ,reporting procedure and tables",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV18.0.0.0.docx"
+    },
+    {
+        "release_number": 19,
+        "release_version": "V19.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1525891",
+        "title": "AAI-DYCE-IRS :  Apply Authentication and token authorization in .Net Code.",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV19.0.0.0.docx"
+    },
+    {
+        "release_number": 19,
+        "release_version": "V19.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1525888",
+        "title": "AAI-DYCE-IRS : Improvement and configuration changes for Azure Function .Netcore 8.",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV19.0.0.0.docx"
+    },
+    {
+        "release_number": 20,
+        "release_version": "V20.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1525878",
+        "title": "AAI-DYCE-IRS :  Http Client Factory for calling external API",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV20.0.0.docx"
+    },
+    {
+        "release_number": 21,
+        "release_version": "V21.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1543680",
+        "title": "Power BI is currently unavailable",
+        "impact": "INC7549902",
+        "affected_version": "",
+        "source_file": "AAI IRS ReleaseNoteV21.0.0.docx"
+    },
+    {
+        "release_number": 22,
+        "release_version": "V22.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1543614",
+        "title": "AAI-DYCE-IRS : Touchpoint Monitoring Deployment on Prod",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV22.0.0.docx"
+    },
+    {
+        "release_number": 23,
+        "release_version": "V23.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1548490",
+        "title": "AAI-DYCE-IRS: Making Method Async From Sync",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV23.0.0.docx"
+    },
+    {
+        "release_number": 24,
+        "release_version": "V24.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1702007",
+        "title": "AAI-DYCE-IRS: Update the Central Application Availability Report Logic",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV24.0.0.docx"
+    },
+    {
+        "release_number": 25,
+        "release_version": "V25.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1726861",
+        "title": "AAI-IRS-44 : Migrate RCA, MIS and Toll-Free KPI data retrieval from SharePoint to Azure Blob Storage",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV25.0.0.docx"
+    },
+    {
+        "release_number": 9,
+        "release_version": "V9.0.0.0",
+        "airport": "AAI22",
+        "story_type": "User Story",
+        "story_id": "1359150",
+        "title": "AAI-DYCE-IRS: Purging Data in AAI12 Database",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV9.0.0.0.docx"
+    },
+    {
+        "release_number": 10,
+        "release_version": "V10.0.0.0",
+        "airport": "AAI44",
+        "story_type": "User Story",
+        "story_id": "1329633",
+        "title": "AAI-IRS-44 : DB Query Optimization",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV10.0.0.0.docx"
+    },
+    {
+        "release_number": 12,
+        "release_version": "V12.0.0.0",
+        "airport": "AAI44",
+        "story_type": "User Story",
+        "story_id": "1422893",
+        "title": "AAI-IRS-44 : INC6868555 Incorrect Calculation",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV12.0.0.0.docx"
+    },
+    {
+        "release_number": 16,
+        "release_version": "V16.0.0.0",
+        "airport": "AAI44",
+        "story_type": "User Story",
+        "story_id": "1525424",
+        "title": "AAI-IRS-44: REQ1076724 - Parent Module Change",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV16.0.0.0.docx"
+    },
+    {
+        "release_number": 17,
+        "release_version": "V17.0.0.0",
+        "airport": "AAI44",
+        "story_type": "User Story",
+        "story_id": "1460260",
+        "title": "AAI-IRS-44 : EPF Alignment",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV17.0.0.0.docx"
+    },
+    {
+        "release_number": 18,
+        "release_version": "V18.0.0.0",
+        "airport": "AAI44",
+        "story_type": "User Story",
+        "story_id": "1726861",
+        "title": "AAI-IRS-44 : Migrate RCA, MIS and Toll-Free KPI data retrieval from SharePoint to Azure Blob Storage",
+        "impact": "No Impact",
+        "affected_version": "NA",
+        "source_file": "AAI IRS ReleaseNoteV18.0.0.0.docx"
+    }
+]

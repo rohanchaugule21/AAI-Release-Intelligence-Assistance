@@ -1,0 +1,11 @@
+python-docx
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+ollama
+fastapi
+sentence-transformers
+faiss-cpu
+numpy
+uvicorn
