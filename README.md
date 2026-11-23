@@ -309,9 +309,53 @@ What dependencies exist in Release 25?
 
 ✅ Streamlit Integration Testing
 
+## Key Features
+
+### Release Intelligence
+Search and explore release information using natural language queries.
+
+### Story Discovery
+Identify stories, associated releases, and implementation details.
+
+### Component Intelligence
+Discover where components are used across releases and stories.
+
+### Dependency Analysis
+Understand relationships and dependencies between application components.
+
+### Trend Analysis
+Identify recurring technologies, patterns, and adoption trends.
+
+### FastAPI REST APIs
+Access platform capabilities through documented APIs.
+
+### Swagger Documentation
+Validate and test APIs through an interactive interface.
+
+### Streamlit User Interface
+Interact with the platform through a simple web-based experience.
+
 ### Current Test Environment
 
 - Local Development Environment
 - FastAPI Swagger UI
 - Streamlit User Interface
 - Python 3.11
+
+
+## Repository Contents
+
+| Folder | Purpose |
+|----------|----------|
+| src/api | FastAPI endpoints and request handling |
+| src/router | Question routing and intent classification |
+| src/search | Search engine implementation |
+| src/trends | Trend analysis engine |
+| src/rag | Retrieval-Augmented Generation components |
+| src/knowledge | Knowledge base generation and management |
+| src/ui | Streamlit user interface |
+| data | Release datasets and processed information |
+| documents | Source release documentation |
+| docs | Project documentation |
+| models | Supporting models and artifacts |
+
