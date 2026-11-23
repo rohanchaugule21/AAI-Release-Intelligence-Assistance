@@ -14,7 +14,7 @@ Shows the codebase organization including API, routing, search, trend analysis, 
 
 The FastAPI Swagger interface used to test and validate the Release Intelligence APIs.
 
-![Swagger UI](swagger-ui-home.png)
+![Swagger UI](swagger-ui-home.png.png)
 
 ## API Query & Request
 
